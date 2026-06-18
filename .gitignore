@@ -3,6 +3,13 @@ backend/venv/
 backend/__pycache__/
 backend/*.pyc
 backend/.env
+backend/app/__init__.py
+backend/app/routes/__init__.py
+backend/app/services/__init__.py
+backend/app/schemas/__init__.py
+backend/app/config/__init__.py
+backend/app/__init__.py
+
 
 # frontend
 node_modules/
