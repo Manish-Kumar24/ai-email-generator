@@ -1,0 +1,12 @@
+function GenerateButton({ onClick }) {
+    return (
+        <button
+            onClick={onClick}
+            className="w-full bg-blue-600 text-white py-3 rounded-lg font-medium hover:bg-blue-700 transition"
+        >
+            Generate Email
+        </button>
+    );
+}
+
+export default GenerateButton;
